@@ -1,0 +1,38 @@
+Sebastian Ciprian13:24
+waitress-serve --listen=*:8000 servidor:app
+http://localhost:8000/predict
+Sebastian Ciprian14:12
+pip install virtualenv
+https://www.analyticslane.com/2022/01/12/usar-entornos-de-python-en-vs-code/
+Sebastian Ciprian14:37
+Get-ExecutionPolicy
+Sebastian Ciprian14:38
+Unrestricted
+Sebastian Ciprian14:44
+pip install --upgrade tensorflow
+pip install --upgrade tensorflow-hub
+pip install pandas
+Sebastian Ciprian14:45
+pip install tensorflow
+pip --version.
+Sebastian Ciprian14:46
+python -m pip install --upgrade pip
+pip install numpy
+Sebastian Ciprian14:48
+pip install -U Flask
+Sebastian Ciprian14:54
+pip install waitress
+Sebastian Ciprian15:01
+pip install "tensorflow>=2.0.0"
+pip install --upgrade tensorflow-hub
+Sebastian Ciprian15:05
+pip install Pillow
+Sebastian Ciprian15:06
+pip install requests
+Sebastian Ciprian15:11
+py -m pip install --upgrade python
+Sebastian Ciprian15:23
+python --version
+Tú15:56
+Voy a ir al baño 
+voy a ir al baño
